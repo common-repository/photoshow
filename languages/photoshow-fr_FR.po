@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Photoshow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-25 02:43+0100\n"
+"PO-Revision-Date: 2019-08-31 23:22+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: CodePeople\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: galleries/01_SingleImages/sg.clss.php:17
+#: galleries/02_SwappingImages/swg.clss.php:20
+msgid "Display Media Captions"
+msgstr ""
+
+#: galleries/01_SingleImages/sg.clss.php:18
+#: galleries/02_SwappingImages/swg.clss.php:21
+msgid "Display Media Authors"
+msgstr ""
+
+#: galleries/02_SwappingImages/swg.clss.php:17
+msgid "Width"
+msgstr "Largeur"
+
+#: galleries/02_SwappingImages/swg.clss.php:18
+msgid "Height"
+msgstr "Hauteur"
+
+#: galleries/02_SwappingImages/swg.clss.php:19
+msgid "Timeout in seconds"
+msgstr ""
+
+#: modules/01_WP/wp.clss.php:19
+msgid "WordPress Media Settings"
+msgstr ""
+
+#: modules/01_WP/wp.clss.php:21
+msgid "The media library of current WordPress is included by default"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:28
+#, fuzzy
+#| msgid "Settings Updated"
+msgid "Google Search Settings Updated"
+msgstr "Configuration mise à jour"
+
+#: modules/06_Google/google.clss.php:38
+msgid "Google Search Settings"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:45
+msgid "Search in Google"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:53
+#, fuzzy
+#| msgid "Enter the Flickr API Key"
+msgid "Enter the Google API Key"
+msgstr "Entrez la clé API Flickr"
+
+#: modules/06_Google/google.clss.php:57
+msgid "If you do not have a Google API Key, click here"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:62
+msgid "The custom search engine ID to scope this search query (cx)"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:66
+msgid "If you do not have a custom search engine ID, click here"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:74
+msgid ""
+"The Picasa (or Google Photos) and Facebook modules have been removed because "
+"Google has modified its API, and now it is possible integrate both services "
+"with the Google Module. Configure the custom search engine for searching in "
+"the entire web (the option: <b>Search the entire web but emphasize included "
+"sites</b>)"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:82
+msgid ""
+"and then for searching terms in a specific platform, use the <b>\"site\"</b> "
+"attribute, with the website's domain in the search box. For example, to get "
+"\"Dogs\" images from Facebook, use the searching term:<br><br><b>dogs site:"
+"facebook.com</b><br><br>And for searching \"Dogs\" pictures in Picasa, use "
+"the searching term:<br><br><b>dogs site:picasaweb.google.com</b>"
+msgstr ""
+
+#: modules/06_Google/google.clss.php:152
+msgid "There are no images associated to the search terms"
+msgstr ""
+
+#: photoshow.clss.php:118
+msgid "Settings"
+msgstr "Configuration"
+
+#: photoshow.clss.php:127
+msgid "Request custom changes"
+msgstr ""
+
+#: photoshow.clss.php:158
+msgid "Update Settings"
+msgstr "Mettre à jour la configuration"
+
+#: photoshow.clss.php:168 photoshow.clss.php:230
+msgid "Select Images"
+msgstr ""
+
+#: photoshow.clss.php:236
+msgid "Terms"
+msgstr "Termes"
+
+#: photoshow.clss.php:237
+msgid "Images"
+msgstr ""
+
+#: photoshow.clss.php:238
+msgid "Galleries Design"
+msgstr ""
+
+#: photoshow.clss.php:239
+msgid "Select a gallery layout"
+msgstr ""
+
+#: photoshow.clss.php:240
+msgid "At least an image should be selected"
+msgstr ""
+
+#: photoshow.clss.php:241
+msgid "Insert"
+msgstr "Insérer"
+
+#: photoshow.clss.php:360
+msgid "Title:"
+msgstr ""
+
+#: photoshow.clss.php:361
+msgid "Gallery:"
+msgstr ""
+
+#~ msgid "The Flickr API Key is required"
+#~ msgstr "La clé API Flickr est obligatoire"
+
+#~ msgid ""
+#~ "The next options are only available for the advanced version of Photoshow"
+#~ msgstr ""
+#~ "Les options suivantes sont disponibles uniquement pour la version avancée "
+#~ "de Photoshow"
+
+#~ msgid "Save in cache(optional)"
+#~ msgstr "Enregistrer dans la mémoire cache (facultatif)"
+
+#~ msgid "Save results in cache"
+#~ msgstr "Enregister les résultats dans la mémoire cache"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Expires in a day"
+#~ msgstr "Expire en un jour"
+
+#~ msgid "Expires in a month"
+#~ msgstr "Expire en un mois"
+
+#~ msgid "Expires in a year"
+#~ msgstr "Expire en un an"
+
+#~ msgid "Never expires"
+#~ msgstr "N'expire jamais"
+
+#~ msgid "Visual effects(optional)"
+#~ msgstr "Effets visuels (facultatif)"
+
+#~ msgid "Replace the images using the effect"
+#~ msgstr "Remplacer les images en utilisant l'effet visuel"
+
+#~ msgid "Proxy definition(optional)"
+#~ msgstr "Définition du proxy (facultatif)"
+
+#~ msgid "Fill the Proxy data only if your website is behind a Proxy"
+#~ msgstr ""
+#~ "Remplir les données du Proxy uniquement si votre site est derrière un "
+#~ "Proxy"
+
+#~ msgid "Proxy host"
+#~ msgstr "Le serveur Proxy"
+
+#~ msgid "Proxy port"
+#~ msgstr "La porte Proxy"
+
+#~ msgid "Proxy username"
+#~ msgstr "Le nom d'utilisateur Proxy"
+
+#~ msgid "Proxy password"
+#~ msgstr "Le mot de passe Proxy"
+
+#~ msgid "Insert Flickr Image"
+#~ msgstr "Insérer une image Flickr"
+
+#~ msgid "Number of Images"
+#~ msgstr "Nombre d'images"
+
+#~ msgid "Load Images every"
+#~ msgstr "Charger les images chaque"
+
+#~ msgid "seconds"
+#~ msgstr "secondes"
+
+#~ msgid "by default"
+#~ msgstr "par défaut"
+
+#~ msgid "The * symbol marks the required fields"
+#~ msgstr "Le symbole * indique les champs obligatoires"
